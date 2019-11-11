@@ -52,6 +52,4 @@ To check your current path and make sure you are or you aren't in your `web` fol
 
 I hope you'll enjoy this project and have fun while you're at it. Stay tuned for more projects to come and the tutorial for this one by following https://codetap.academy and consider subscribing as well. The next projects from this series will be:
 
-* `My CV v2 - Junior` where we'll have fun using `pug-starter`
-* `My CV v2 - Mid` where we'll have fun using `React`
-* `My CV v2 - Senior` where we'll have fun using `React` and `NodeJS`
+* `My first website about cooking v2 - Junior` where we'll have fun using `pug-starter`
